@@ -11,7 +11,7 @@ title: "20220827NagoyaConnectSawada"
 
 スライドは↓からもご覧になれます
 
-<img src="/img/QR.png" style="height: 300px;">
+<img src="img/QR.png" style="height: 300px;">
 
 ---
 
@@ -70,7 +70,7 @@ title: "20220827NagoyaConnectSawada"
   - 「名大に、音楽をパソコンで解析したりする研究をしている<span class="fragment highlight-red">戸田先生</span>という人がいるらしい」
 - 自習室カフェ(地域の中高生の憩いの?場)で<span class="fragment highlight-red">多くの人と教え合い</span>ながら受験勉強
 
-<img src="/img/talk.jpg" style="height: 300px;">
+<img src="img/talk.jpg" style="height: 300px;">
 
 ---
 
