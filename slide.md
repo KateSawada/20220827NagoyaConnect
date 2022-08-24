@@ -16,11 +16,15 @@ title: "20220827NagoyaConnectSawada"
 --
 
 - 澤田桂都
-- 名古屋大学 情報学部 コンピュータ科学科 B4 {.fragment .fade-up}
 - 趣味 {.fragment .fade-up}
   - ソフトウェア開発
   - 音楽(ピアノ&軽音)
   - 空手
+- 名古屋大学 情報学部 コンピュータ科学科 B4 {.fragment .fade-up}
+  - 4月から大学院情報学研究科に進学
+- 研究領域 {.fragment .fade-up}
+  - Automatic Score Arramgement
+  - Automatic Music Transcription(AMT)
 - その他 {.fragment .fade-up}
   - 3歳児のような<span class="fragment highlight-red">好奇心</span>を発揮する
   - たくさん<span class="fragment highlight-red">寝る</span>
@@ -134,7 +138,8 @@ title: "20220827NagoyaConnectSawada"
 ## まとめると
 
 - ピアノ x コンピュータ を深め {.fragment .fade-up}
-- 自分がやってることを色々な人に喋り、今どんなことをやっているのか聞き {.fragment .fade-up}
+- 自分がやってることを色々な人に喋り{.fragment .fade-up}
+- 周りの人に今どんなことをやっているのか聞き {.fragment .fade-up}
 - 舞い込んできた話に飛びついた {.fragment .fade-up}
 
 ---
