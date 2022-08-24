@@ -9,6 +9,10 @@ title: "20220827NagoyaConnectSawada"
 ##  Nagoya Connect
 2022/08/27
 
+スライドは↓からもご覧になれます
+
+<img src="/img/QR.png" style="height: 300px;">
+
 ---
 
 ## 自己紹介
@@ -91,7 +95,21 @@ title: "20220827NagoyaConnectSawada"
 
 - コロナで大学がオンライン化
 - 「せっかく家に籠もってるんだし、プログラミングのスキルを伸ばす時間って捉えるか」
-  - 自分用の便利ツールを色々と開発
+  - (主に)自分用の便利ツールを色々と開発
+
+<style>
+  .img_flex {
+    list-style: none;
+  }
+</style>
+<ul style="display: flex;">
+  <li class="img_flex">
+    <img src="img/LINE02.png" style="height: 350px;">
+  </li>
+  <li class="img_flex">
+    <img src="img/LINE01.png" style="height: 350px;">
+  </li>
+</ul>
 
 ---
 
